@@ -1,0 +1,20 @@
+@media only screen and (min-width: 701px){
+
+    #serverFormContainer{
+        margin-left: 30%;
+        margin-right: 30%;
+        border-radius: 1rem;
+    }
+
+    
+}
+
+@media only screen and (max-width: 700px){
+
+    #serverFormContainer{
+        margin-left: 0;
+        margin-right: 0;
+        border-radius: 0;
+    }
+
+}
